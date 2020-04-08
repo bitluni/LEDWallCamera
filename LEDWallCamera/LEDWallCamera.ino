@@ -1,3 +1,5 @@
+//LED data pin is 2
+
 #include <ESP32Lib.h>
 #include "camera.h"
 #include "tools.h"
